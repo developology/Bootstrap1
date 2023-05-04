@@ -13,7 +13,9 @@ One of the advantages of Bootstrap is its ability to be customized to meet speci
 Today, Bootstrap remains one of the most widely used front-end frameworks, with version 5 being the latest release as of 2021. Its popularity is due in part to its ease of use, flexibility, and the fact that it is open-source and free to use. 
 
 With Bootstrap, web developers can create beautiful, responsive, and mobile-friendly websites quickly and efficiently.
+
 Click on the link given below to view this UX-UI design built by me :)
+
 https://developology.github.io/Bootstrap1/
 
 Thankyou
