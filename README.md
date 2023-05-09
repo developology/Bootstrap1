@@ -16,6 +16,6 @@ With Bootstrap, web developers can create beautiful, responsive, and mobile-frie
 
 Click on the link given below to view this UX-UI design built by me :)
 
-https://developology.github.io/Bootstrap1/
+<i>https://developology.github.io/Bootstrap1/ </i>
 
-Thankyou
+Thankyou :)
